@@ -59,4 +59,7 @@ ScreenSound/
 
 Este é um projeto educacional e serve como base para evoluir em conhecimento de orientação a objetos com C# e .NET.
 
-Desenvolvido durante os estudos na Alura
+---
+
+**[Link do Certificado](https://cursos.alura.com.br/certificate/8e133fcb-97d3-41f6-9c41-598fd95f77b4)**
+**Desenvolvido durante os estudos na Alura**
