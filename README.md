@@ -18,9 +18,9 @@ Este projeto foi desenvolvido como parte do curso:
 
 **"C#: Aplicando Orientação a Objetos"**
 
-• 📘 [Link do Curso](https://cursos.alura.com.br/course/csharp-aplicando-orientacao-objetos)
-• 🏫 Plataforma: Alura
-• 🎯 Objetivo: Aprofundar conhecimentos em orientação a objetos usando C#
+- 📘 [Link do Curso](https://cursos.alura.com.br/course/csharp-aplicando-orientacao-objetos)
+- 🏫 Plataforma: Alura
+- 🎯 Objetivo: Aprofundar conhecimentos em orientação a objetos usando C#
 
 O curso aborda os conceitos essenciais de POO para criar aplicações bem estruturadas em C# usando a plataforma .NET.
 
